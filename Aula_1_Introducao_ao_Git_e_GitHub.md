@@ -2,10 +2,6 @@
 
 ## Git e GitHub na Prática
 
-### Carga horária
-
-4 horas
-
 ### Tema da aula
 
 Introdução ao controle de versão, instalação e configuração do Git, criação de um repositório local e realização dos primeiros commits.
@@ -84,25 +80,23 @@ Para acompanhar esta aula, você precisará de:
 
 ## 4. Organização das quatro horas
 
-### Primeiro momento: 40 minutos
+### Primeiro momento: 
 
 Introdução ao controle de versão, explicação sobre Git, GitHub, repositório, commit e histórico.
 
-### Segundo momento: 40 minutos
+### Segundo momento: 
 
 Instalação do Git, verificação da instalação e configuração do nome e email.
 
-### Terceiro momento: 60 minutos
+### Terceiro momento:
 
 Criação do projeto Meu Primeiro Site, inicialização do repositório e primeiro commit.
 
-### Intervalo: 15 minutos
-
-### Quarto momento: 60 minutos
+### Quarto momento: 
 
 Criação de novos arquivos, realização de novos commits e consulta ao histórico.
 
-### Quinto momento: 45 minutos
+### Quinto momento: 
 
 Exercícios, atividade colaborativa, desafios e correção.
 

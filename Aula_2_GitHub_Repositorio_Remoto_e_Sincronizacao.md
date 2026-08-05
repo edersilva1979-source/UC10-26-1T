@@ -4,7 +4,6 @@
 
 ### Carga horária
 
-4 horas
 
 ### Tema da aula
 

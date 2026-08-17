@@ -10,7 +10,7 @@ A documentação ajuda outras pessoas a entenderem o projeto, instalarem o siste
 
 Nesta aula, nós vamos conhecer os principais arquivos utilizados em projetos Git e GitHub e entender a função de cada um.
 
-Também vamos aprender como organizar um modelo de repositório para projetos Java.
+Também vamos aprender como organizar um modelo de repositório para projetos.
 
 ## 2. Objetivos da Aula
 

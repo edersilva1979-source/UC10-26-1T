@@ -129,9 +129,9 @@ Este projeto foi desenvolvido para praticarmos Java, Swing, JDBC, PostgreSQL, Gi
 
 ## Tecnologias
 
-Java
+JavaScript
 
-Java Swing
+Typescript
 
 PostgreSQL
 
@@ -157,7 +157,7 @@ Java JDK
 
 PostgreSQL
 
-NetBeans
+VsCode
 
 ## Executando o Projeto
 
@@ -180,7 +180,7 @@ Nome do aluno
 ## Licença
 
 Este projeto utiliza a licença MIT.
-```
+``
 
 ## 5.4 Dica
 
@@ -200,7 +200,7 @@ Esses arquivos normalmente não precisam ser enviados ao GitHub.
 
 ## 6.2 Exemplo para Java
 
-```gitignore
+``gitignore
 # Arquivos compilados
 *.class
 
@@ -238,7 +238,7 @@ nbdist/
 .DS_Store
 Thumbs.db
 Desktop.ini
-```
+``
 
 ## 6.3 Informações sensíveis
 
@@ -284,13 +284,13 @@ O recomendado é escolher uma licença conhecida e utilizar seu texto oficial.
 
 ## 7.4 Referência no README
 
-```markdown
+``markdown
 ## Licença
 
 Este projeto utiliza a licença MIT.
 
 Consulte o arquivo LICENSE para conhecer os termos completos.
-```
+``
 
 # 8. CHANGELOG.md
 
@@ -306,7 +306,7 @@ O CHANGELOG apresenta as alterações que são importantes para quem utiliza o p
 
 ## 8.2 Exemplo
 
-```markdown
+``markdown
 # Histórico de Alterações
 
 ## Versão 1.2.0
@@ -340,7 +340,7 @@ Consulta de clientes.
 ## Versão 1.0.0
 
 Primeira versão do sistema.
-```
+``
 
 # 9. Versionamento Semântico
 
@@ -352,9 +352,9 @@ MAJOR.MINOR.PATCH
 
 Exemplo:
 
-```text
+``text
 1.4.2
-```
+``
 
 Podemos interpretar assim:
 
@@ -410,7 +410,7 @@ Quando várias pessoas trabalham no mesmo repositório, é importante que todos 
 
 ## 10.3 Exemplo
 
-```markdown
+``markdown
 # Como Contribuir
 
 Obrigado pelo interesse em contribuir com este projeto.
@@ -425,11 +425,11 @@ Verifique as Issues existentes.
 
 ## Criando uma Branch
 
-```bash
+``bash
 git switch main
 git pull
 git switch cadastro_cliente
-```
+``
 
 ## Commits
 
@@ -452,7 +452,7 @@ git push origin cadastro_cliente
 ```
 
 Depois, abra um Pull Request no GitHub.
-```
+``
 
 # 11. Mensagens de Commit
 
@@ -524,7 +524,7 @@ Podemos criar:
 
 Exemplo:
 
-```markdown
+``markdown
 # Pull Request
 
 ## Descrição
@@ -560,7 +560,7 @@ Informe se houve alteração em tabelas, campos ou scripts SQL.
 ## Observações
 
 Inclua informações importantes para a revisão.
-```
+``
 
 # 14. Issues
 
@@ -587,7 +587,7 @@ Arquivo:
 
 Exemplo:
 
-```markdown
+``markdown
 # Relatório de Problema
 
 ## Descrição
@@ -624,7 +624,7 @@ Versão do projeto:
 ## Evidências
 
 Adicione mensagens de erro, imagens ou logs.
-```
+``
 
 # 16. Template para Nova Funcionalidade
 
@@ -636,7 +636,7 @@ Arquivo:
 
 Exemplo:
 
-```markdown
+``markdown
 # Solicitação de Funcionalidade
 
 ## Necessidade
@@ -670,7 +670,7 @@ Permissões
 ## Observações
 
 Inclua outras informações importantes.
-```
+``
 
 # 17. Pasta docs
 
@@ -704,7 +704,7 @@ Ele deve explicar como preparar o ambiente do zero.
 
 Exemplo:
 
-```markdown
+``markdown
 # Instalação
 
 ## Requisitos
@@ -736,7 +736,7 @@ Abra o projeto na IDE.
 Configure o banco.
 
 Execute a classe principal.
-```
+``
 
 # 19. Documento da Estrutura
 
@@ -748,7 +748,7 @@ docs/02_estrutura_projeto.md
 
 Exemplo:
 
-```markdown
+``markdown
 # Estrutura do Projeto
 
 ## Model
@@ -788,7 +788,7 @@ Contém as classes responsáveis pelo acesso aos dados.
 ## Util
 
 Contém classes auxiliares.
-```
+``
 
 # 20. Documento do Banco de Dados
 
@@ -830,7 +830,7 @@ Podemos registrar o padrão escolhido pela equipe.
 
 Exemplo:
 
-```text
+``text
 Adiciona cadastro de clientes
 
 Corrige validação do CPF
@@ -838,7 +838,7 @@ Corrige validação do CPF
 Atualiza conexão com PostgreSQL
 
 Documenta instalação do projeto
-```
+``
 
 Isso ajuda todos os integrantes a manterem um histórico consistente.
 
@@ -1013,7 +1013,7 @@ Depois envie as alterações para o GitHub.
 
 # 26. Desafio
 
-Crie um projeto Java fictício chamado:
+Crie um projeto TypeScript fictício chamado:
 
 ```text
 SistemaLivraria
